@@ -31,7 +31,7 @@ PYLog.log(generic, "what")
 # Note from Nox.
 
 I thank you all for using my modules, It really means a lot to me. You don't understand.
-The time and effort I put into making these for people to use is extreme, And I almost gget no users in return..
+The time and effort I put into making these for people to use is extreme, And I almost get no users in return..
 So if you could just credit me if you use this module, I would really appreciate it!
 
 You can use this for credits:
