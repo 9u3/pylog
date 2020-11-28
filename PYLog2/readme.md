@@ -31,9 +31,9 @@ So if you could just credit me if you use this module, I would really appreciate
 
 You can use this for credits:
 ```python
-# Module 'PYLog' created by NoxProtogen / 9u3.
+# Module 'PYLog2' created by NoxProtogen / 9u3.
 # Github: https://github.com/9u3
-# Module: https://github.com/9u3/pylog
+# Module: https://github.com/9u3/pylog/PYLog2
 # Twitter: https://twitter.com/noxprotogen
 ```
 I'll say it again. Thank you.
