@@ -1,1 +1,1 @@
-from .core import Colors, Strings, PYLog
+from .core import Colors, Strings, PYLog, Debug
