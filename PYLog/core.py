@@ -8,6 +8,10 @@ class Colors():
 class Strings():
     _all = ["[LOG]", "[WARN]", "[INFO]", "[ERROR]", "[SUCCESS]"]
 
+class Debug(): # I don't know why you'll use these. But do what you want
+    _all = ["[LOG]", "[WARN]", "[INFO]", "[ERROR]", "[SUCCESS]"]
+    _allc = [Fore.BLUE, Fore.GREEN, Fore.CYAN, Fore.YELLOW, Fore.RED]
+    
 class PYLog():
     _m = "[LOG]"
     _c = Fore.YELLOW
