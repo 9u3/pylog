@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'PYLog',
   packages = ['PYLog'],
-  version = '1.0',
+  version = '1.1',
   license='MIT',
   description = 'Simple yet effective logging solution',
   author = 'Nox Protogen',
